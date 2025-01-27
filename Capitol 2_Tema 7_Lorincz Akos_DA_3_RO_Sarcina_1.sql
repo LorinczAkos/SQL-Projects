@@ -1,4 +1,4 @@
--- Preparation of data to create reports in BI systems
+-- Preparation of data to create reports in BI systems 
 SELECT
   event_timestamp,
   user_pseudo_id,
