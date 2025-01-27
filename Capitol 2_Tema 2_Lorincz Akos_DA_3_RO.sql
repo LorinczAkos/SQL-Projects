@@ -1,4 +1,4 @@
--- Project verifying Basic knowledge of SQL Functions
+-- Project verifying Basic knowledge of SQL Functions 
 -- Requesting calculations for CPC, CPM, CTR and ROMI
 
 select
