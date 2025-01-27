@@ -1,3 +1,6 @@
+-- Combination of different data as well as applying data cleaning
+-- and the use of CASE instead of WHERE for a more efficient query
+
 WITH COMBINED_DATA AS (
 SELECT
 	FBD.AD_DATE,
