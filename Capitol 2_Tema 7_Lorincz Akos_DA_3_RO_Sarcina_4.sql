@@ -1,3 +1,4 @@
+-- Corelation verification based on user and purchase implication
 with user_sessions as (
   select
 	user_pseudo_id ||

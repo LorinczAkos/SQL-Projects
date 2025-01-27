@@ -1,3 +1,4 @@
+-- Rate comparison based on different Laning Pages
 WITH session_events AS (
   SELECT
     TIMESTAMP_MICROS(event_timestamp) AS event_timestamp,
