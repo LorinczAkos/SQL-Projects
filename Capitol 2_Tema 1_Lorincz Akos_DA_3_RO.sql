@@ -1,3 +1,6 @@
+-- Introductory project, I was tasked with connect to the DataBase
+-- and write a short query to see on which day there was the most amount of clicks
+
 select ad_date,
 spend,
 clicks,
