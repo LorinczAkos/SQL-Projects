@@ -1,4 +1,4 @@
--- Conversion calculation based on date and traffic channels
+-- Conversion calculation based on date and traffic channels 
 WITH session_events AS (
   SELECT
     event_timestamp,
