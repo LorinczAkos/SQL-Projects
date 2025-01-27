@@ -1,3 +1,5 @@
+-- More advanced SQL scripts using CTEs and Window functions
+--in order to create Samples for several Marketing Key metrics
 WITH COMBINED_DATA AS (
 SELECT
 	FBD.AD_DATE,
