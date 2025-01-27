@@ -1,4 +1,6 @@
---Homework 2
+-- Project verifying Basic knowledge of SQL Functions
+-- Requesting calculations for CPC, CPM, CTR and ROMI
+
 select
 campaign_id,
 ad_date,
@@ -18,6 +20,7 @@ order by ad_date asc,
 spend asc;
 
 --Homework 2 BONUS
+--Find the Campaign with highest value of of ROMI (Over 500k) and list the first one. 
 select
 campaign_id,
 SUM (spend::float) as spend,
