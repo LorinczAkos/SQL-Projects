@@ -1,3 +1,5 @@
+-- Advanced SQL knowledge applied with the use of several CTEs and Join functions in order to
+-- present data for marketing campaigns from 2 different sources, those being from Facebook and Google 
 WITH FACEBOOK_DATA AS(
 SELECT
 	FBD.AD_DATE,
